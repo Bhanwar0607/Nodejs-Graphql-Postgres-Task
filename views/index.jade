@@ -1,0 +1,18 @@
+extends layout
+
+block content
+  h1= 'Scoutbase Task'
+
+  h2= 'NodeJs + Knex + GraphQl + Apollo-Server + Postgres'
+
+  a(href="http://localhost:3000/graphql" target="blank" style="text-decoration: none;") click here to navigate /graphql
+
+  h3= 'Make Sure you already followed below instructions'
+  h4= 'Update the database configuration in knexfile.js file'
+  h4= 'Run following command to setup the project'
+  ul
+    li npm i -g nodemon 
+    li npm i -g knex 
+    li npm i
+    li knex migrate:latest
+    li Knex seed:run
