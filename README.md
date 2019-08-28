@@ -19,6 +19,9 @@ Knex seed:run
 npm start
 
 ```
+
+5. For Authorization send `token` in header.
+
 # Given Task Was
 
 This task is for demonstrating your understanding of HTTP, GraphQL, Node.js and general API practices.
