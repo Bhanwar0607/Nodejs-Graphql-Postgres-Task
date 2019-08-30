@@ -1,4 +1,4 @@
-# Back-end task of Code Challenge for Scoutbase By Bhanwarlal Chaudhary
+# Back-end task of Code Challenge for Scout base By Bhanwarlal Chaudhary
 
 # NodeJs + Knex + GraphQl + Apollo-Server + Postgres
 
